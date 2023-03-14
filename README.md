@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on multivariate data analysys for business insights.
-- 🌱 I’m currently learning machine learning.
+- 🔭 I’m currently working on A.I. engineering.
+- 🌱 I’m currently learning MLOps.
 - 💬 Ask me about SQL, Python, Statistics.
 - 📫 How to reach me: https://www.linkedin.com/in/gustavoamora/
 
