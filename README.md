@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on A.I. engineering.
-- 🌱 I’m currently learning MLOps.
-- 💬 Ask me about SQL, Python, Statistics.
+- 🔭 I’m currently working on brasilian sign language recognition and translation.
+- 🌱 I’m currently learning computer vision.
+- 💬 Ask me about Computer Vision, Image processing, Action Recognition, Python, Machine Learning.
 - 📫 How to reach me: https://www.linkedin.com/in/gustavoamora/
 
 <!--
