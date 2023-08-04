@@ -2,8 +2,7 @@
 
 Data science and analysys.
 
-- 📫 How to reach me: https://www.linkedin.com/in/gustavoamora/
-                       gustavoamora@gmail.com 
+- 📫 How to reach me: https://www.linkedin.com/in/gustavoamora/ | gustavoamora@gmail.com 
 
 <!--
 **gustavoamora/gustavoamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
