@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on brazilian sign language recognition and translation.
-- 🌱 I’m currently learning computer vision.
-- 💬 Ask me about Computer Vision, Image processing, Action Recognition, Python, Machine Learning.
+Data science and analysys.
+
 - 📫 How to reach me: https://www.linkedin.com/in/gustavoamora/
+                       gustavoamora@gmail.com 
 
 <!--
 **gustavoamora/gustavoamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
