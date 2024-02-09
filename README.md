@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Data science and analysys.
+Data science | Machine Learning | Analytics.
 
 - 📫 How to reach me: https://www.linkedin.com/in/gustavoamora/ | gustavoamora@gmail.com 
 
